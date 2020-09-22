@@ -5,8 +5,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arunsri7&repo=pushapp&theme=dark)](https://github.com/arunsri7/pushapp)
 
 
-[![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunsri7&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Arun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arunsri7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunsri7&count_private=true&show_icons=true&theme=dark)]
+[![Arun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arunsri7&theme=dark)]
 
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:arun.i1997@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20via%20GitHub%20profile%20README.)
