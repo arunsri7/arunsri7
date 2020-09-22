@@ -2,7 +2,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arunsri7&repo=farji)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arunsri7&repo=sound-saber)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arunsri7&repo=pushapp)](https://github.com/anuraghazra/github-readme-stats)\
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arjun.mahishi&repo=pushapp)](https://github.com/anuraghazra/github-readme-stats)\
 
 
 [![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunsri7&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
