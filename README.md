@@ -6,6 +6,7 @@
 
 
 [![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunsri7&count_private=true&show_icons=true&theme=dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsri7&count_private=true&show_icons=true&theme=dark))](https://github.com/arunsri7/github-readme-stats)
 
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:arun.i1997@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20via%20GitHub%20profile%20README.)
