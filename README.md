@@ -1,10 +1,4 @@
 ![image](https://github.com/arunsri7/arunsri7/blob/master/goGopher.gif)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arunsri7&repo=farji&theme=dark)](https://github.com/arunsri7/Farji)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arjunmahishi&repo=sound-saber&theme=dark)](https://github.com/arjunmahishi/sound-saber)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arunsri7&repo=pushapp&theme=dark)](https://github.com/arunsri7/pushapp)
-
-
 [![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunsri7&count_private=true&show_icons=true&theme=dark)]()
 
 
