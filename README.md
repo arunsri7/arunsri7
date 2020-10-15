@@ -1,6 +1,6 @@
 
 ### About
-Hello there! My name is Arun Iyer. I am a padawan Software Developer discovering the ways of the code. 
+Hello there! My name is Arun Iyer. I am a [padawan](https://www.dictionary.com/e/fictional-characters/padawan/) Software Developer discovering the ways of the code. 
 Check out my [Portfolio](https://arun-iyer.com/) to know more.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/arunsri7/arunsri7/blob/master/goGopher.gif)
