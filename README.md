@@ -1,4 +1,4 @@
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### About
 Hello there! My name is Arun Iyer. I am a padawan Software Developer discovering the ways of the code. 
 Check out my [Portfolio](https://arun-iyer.com/) to know more.
