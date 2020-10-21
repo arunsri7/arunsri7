@@ -8,7 +8,7 @@ Check out my [Portfolio](https://arun-iyer.com/) to know more.
 ![image](https://github.com/arunsri7/arunsri7/blob/master/goGopher.gif)
 [![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunsri7&count_private=true&show_icons=true&theme=dark)]()
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Buy me a cofee](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F000%2F449%2F568%2Foriginal%2Fvector-coffee-icon.jpg&f=1&nofb=1)](https://www.buymeacoffee.com/aruniyer)
+[![Buy me a cofee](https://img.buymeacoffee.com/api/?name=aruniyer&size=300&bg-image=bmc)](https://www.buymeacoffee.com/aruniyer)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:arun.i1997@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20via%20GitHub%20profile%20README.)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Darunsri7&suffix=%20Followers)](https://twitter.com/arunsri7)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arun-iyer-412545154/)
