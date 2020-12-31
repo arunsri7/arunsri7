@@ -6,7 +6,7 @@ Check out my [Portfolio](https://arun-iyer.com/) to know more.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunsri7&count_private=true&show_icons=true&theme=dark)]()
+[![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunsri7&count_private=true&show_icons=true&theme=tokyonight)]()
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsri7&theme=tokyonight_duo" alt="aruniyer" /></p>
 
 <a href=""><img src="https://github.com/arunsri7/arunsri7/blob/master/goGopher.gif" width = "200"></a>
