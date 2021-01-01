@@ -7,10 +7,15 @@ Check out my [Portfolio](https://arun-iyer.com/) to know more.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsri7&theme=tokyonight_duo" alt="aruniyer" /></p>
+
 <details>
   <summary>:zap:GitHub Stats</summary>
+<!--START_SECTION:activity-->
 [![Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunsri7&count_private=true&show_icons=true&theme=nightowl)]()
+<!--END_SECTION:activity-->
+
 </details>
+
 <a href=""><img src="https://github.com/arunsri7/arunsri7/blob/master/goGopher.gif" width = "200"></a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://www.buymeacoffee.com/aruniyer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=aruniyer&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" width = "100"></a>
