@@ -15,7 +15,7 @@ Check out my [Portfolio](https://arun-iyer.com/) to know more.
 <!--END_SECTION:activity-->
 
 </details>
-
+<br />
 <a href=""><img src="https://github.com/arunsri7/arunsri7/blob/master/goGopher.gif" width = "200"></a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://www.buymeacoffee.com/aruniyer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=aruniyer&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" width = "100"></a>
