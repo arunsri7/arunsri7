@@ -13,11 +13,11 @@ Check out my [Portfolio](https://arun-iyer.com/) to know more.
 <!--START_SECTION:activity-->
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arunsri7&show_icons=true&hide_border=true&theme=nightowl" />
 <!--END_SECTION:activity-->
-
 </details>
-<br />
+<br/>
 <a href=""><img src="https://github.com/arunsri7/arunsri7/blob/master/goGopher.gif" width = "200"></a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br/>
 <a href="https://www.buymeacoffee.com/aruniyer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=aruniyer&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" width = "100"></a>
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:arun.i1997@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20via%20GitHub%20profile%20README.)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Darunsri7&suffix=%20Followers)](https://twitter.com/arunsri7)
