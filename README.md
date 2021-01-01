@@ -1,5 +1,5 @@
 
-<a href=""><img src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966width" = "200"></a>
+<a href=""><img src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" width = "200"></a>
 ### About
 Hello there! My name is Arun Iyer. I am a [padawan](https://www.dictionary.com/e/fictional-characters/padawan/) Software Developer discovering the ways of the code. 
 Check out my [Portfolio](https://arun-iyer.com/) to know more. 
