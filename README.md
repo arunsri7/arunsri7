@@ -11,7 +11,7 @@ Check out my [Portfolio](https://arun-iyer.com/) to know more.
 <details>
   <summary>:zap:GitHub Stats</summary>
 <!--START_SECTION:activity-->
-[Arun's github stats](https://github-readme-stats.vercel.app/api?username=arunsri7&count_private=true&show_icons=true&theme=nightowl)
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arunsri7&show_icons=true&hide_border=true&theme=nightowl" />
 <!--END_SECTION:activity-->
 
 </details>
