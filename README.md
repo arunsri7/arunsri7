@@ -19,6 +19,7 @@ Check out my [Portfolio](https://arun-iyer.com/) to know more.
 [![Code Wars](https://www.codewars.com/users/arunsri7/badges/small)](https://www.codewars.com/users/arunsri7)
 ![](https://komarev.com/ghpvc/?username=arunsri7)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<details>
   <summary>:zap:GitHub Stats</summary>
 <!--START_SECTION:activity-->
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arunsri7&show_icons=true&hide_border=true&theme=nightowl" />
