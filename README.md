@@ -1,16 +1,14 @@
 
-<a href=""><img src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966"></a>
-### About
-Hello there! My name is Arun Iyer. I am a [padawan](https://www.dictionary.com/e/fictional-characters/padawan/) Software Developer discovering the ways of the code. 
-Check out my [Portfolio](https://arun-iyer.com/) to know more. 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<h3 align="center">Hello there! My name is Arun Iyer. I am a <a href ="https://www.dictionary.com/e/fictional-characters/padawan/">padawan</a> Software Developer discovering the ways of the code. Check out my <a href ="https://arun-iyer.com/">portfolio</a> to know more. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsri7&theme=tokyonight_duo" alt="aruniyer" /></p>
 
 
 <a href=""><img src="https://github.com/arunsri7/arunsri7/blob/master/goGopher.gif" width = "200"></a>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Follow
 <a href="https://www.buymeacoffee.com/aruniyer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=aruniyer&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" width = "100"></a>
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:arun.i1997@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20via%20GitHub%20profile%20README.)
@@ -19,7 +17,7 @@ Check out my [Portfolio](https://arun-iyer.com/) to know more.
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/arun_sri_7/)
 [![Code Wars](https://www.codewars.com/users/arunsri7/badges/small)](https://www.codewars.com/users/arunsri7)
 ![](https://komarev.com/ghpvc/?username=arunsri7)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
   <summary>:zap:GitHub Stats</summary>
 <!--START_SECTION:activity-->
