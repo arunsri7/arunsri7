@@ -4,6 +4,7 @@
 <h3 align="center">Hello there! My name is Arun Iyer. I am a <a href ="https://www.dictionary.com/e/fictional-characters/padawan/">padawan</a> Software Developer discovering the ways of the code. Check out my <a href ="https://arun-iyer.com/">portfolio</a> to know more. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
+  <a href =""><img src = "https://dwglogo.com/wp-content/uploads/2017/08/go_speed_of_light.png" width = "180"></a>
   <a href="https://github.com/arunsri7/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsri7&theme=tokyonight_duo#version3"/>
   </a>
