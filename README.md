@@ -3,9 +3,15 @@
 
 <h3 align="center">Hello there! My name is Arun Iyer. I am a <a href ="https://www.dictionary.com/e/fictional-characters/padawan/">padawan</a> Software Developer discovering the ways of the code. Check out my <a href ="https://arun-iyer.com/">portfolio</a> to know more. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunsri7&theme=tokyonight_duo" alt="aruniyer" /></p>
+<p align="center">
+  <a href="https://github.com/arunsri7/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunsri7&theme=tokyonight_duo#version3"/>
+  </a>
+  <a href=""><img src="https://github.com/arunsri7/arunsri7/blob/master/goGopher.gif" width = "200"></a>
+</p>
 
-<a href=""><img src="https://github.com/arunsri7/arunsri7/blob/master/goGopher.gif" width = "200"></a>
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Follow
 <a href="https://www.buymeacoffee.com/aruniyer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=aruniyer&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" width = "100"></a>
