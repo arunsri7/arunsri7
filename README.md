@@ -30,7 +30,7 @@
 <!--END_SECTION:activity-->
 </details>
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Living a spam free email life](https://dev.to/arunsri7/living-a-spam-free-email-life-2lid)
 - [useful chrome extensions](https://dev.to/arunsri7/useful-chrome-extensions-i1e)
