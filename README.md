@@ -29,3 +29,7 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arunsri7&show_icons=true&hide_border=true&theme=nightowl" />
 <!--END_SECTION:activity-->
 </details>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
