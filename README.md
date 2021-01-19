@@ -31,8 +31,16 @@
 <details>
   <summary>:zap:GitHub Stats</summary>
 <!--START_SECTION:activity-->
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arunsri7&show_icons=true&hide_border=true&theme=nightowl" />
+<img align="left" alt="Arun's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arunsri7&show_icons=true&hide_border=true&theme=nightowl" />
 <!--END_SECTION:activity-->
 </details>
+
+<details>
+  <summary>:zap:Top Language Stats</summary>
+<!--START_SECTION:activity-->
+<img align="left" alt="Arun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsri7&layout=compac&theme=nightowl" />
+<!--END_SECTION:activity-->
+</details>
+
 
 
