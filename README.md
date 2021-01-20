@@ -36,7 +36,7 @@
 </details>
 
 <details>
-  <summary>:zap:Top Language Stats</summary>
+  <summary>:zap:Most Used Language</summary>
 <!--START_SECTION:activity-->
 <img align="left" alt="Arun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsri7&layout=compac&theme=nightowl" />
 <!--END_SECTION:activity-->
