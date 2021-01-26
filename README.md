@@ -26,7 +26,6 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arun-iyer-412545154/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/arun_sri_7/)
 [![Code Wars](https://www.codewars.com/users/arunsri7/badges/small)](https://www.codewars.com/users/arunsri7)
-![](https://komarev.com/ghpvc/?username=arunsri7)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
   <summary>:zap:GitHub Stats</summary>
