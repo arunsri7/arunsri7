@@ -14,6 +14,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Living a spam free email life](https://dev.to/arunsri7/living-a-spam-free-email-life-2lid)
 - [useful chrome extensions](https://dev.to/arunsri7/useful-chrome-extensions-i1e)
+- [In a Friendly Neighbourhood Universe…](https://medium.com/@arun.i1997/in-a-friendly-neighbourhood-universe-8bb37a840007?source=rss-be2cbc55ae5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
