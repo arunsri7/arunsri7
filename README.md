@@ -28,16 +28,3 @@
 [![Code Wars](https://www.codewars.com/users/arunsri7/badges/small)](https://www.codewars.com/users/arunsri7)
 <a href="https://open.spotify.com/user/egzr4assog182x3mgnui1hu7k?si=gDHU2ocvTYa22G4yeKBo8A" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" width="26" alt="spotify icon marilyn scott" /></a>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<details>
-  <summary>:zap:GitHub Stats</summary>
-<!--START_SECTION:activity-->
-<img align="left" alt="Arun's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=arunsri7&show_icons=true&hide_border=true&theme=nightowl" />
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>:zap:Most Used Language</summary>
-<!--START_SECTION:activity-->
-<img align="left" alt="Arun's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunsri7&layout=compac&theme=nightowl" />
-<!--END_SECTION:activity-->
-</details>
